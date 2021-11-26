@@ -8,7 +8,7 @@ The dice is controlled by 3 buttons and display the results on the 4-digit LED d
 Button 1
 - switches the dice to normal mode
 - whilst pressed down, the random data are gathered (result is being generated)
-- when the button is released, a new random result has to be displayed
+- when the button is released, a new random result is displayed
 
 Button 2
 - switches the dice to configuration mode
